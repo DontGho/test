@@ -2762,4 +2762,4 @@ function Flux:Window(args)
 	return Tabs
 end
 
-return FluxLib
+return Flux
